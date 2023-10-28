@@ -14,7 +14,7 @@ I'm a passionate Full-stack Developer 🚀 from Surabaya, Indonesia with 1 years
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+
 
 ### Frameworks:
 
