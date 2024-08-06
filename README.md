@@ -4,7 +4,7 @@ I'm a passionate Full-stack Developer 🚀 from Surabaya, Indonesia with 1 years
 
 - 🔭 I’m currently ...
 - 🌱 I’m always learning and currently diving deep into Frontend Field.
-- 💬 Ask me about `JavaScript`, `React`, `Node.js`, `React Native`, or any tech-related stuff.
+- 💬 Ask me about `JavaScript`, `Typescript`, `React`, `Node.js`, `Next.js`, `React Native`, or any tech-related stuff.
 - 📫 How to reach me: [yusufbahrudin97@gmail.com](mailto:yusufbahrudin97@gmail.com).
 - 😄 Pronouns: He/Him.
 
