@@ -13,6 +13,9 @@ I'm a passionate Full-stack Developer 🚀 from Surabaya, Indonesia with 1 years
 ### Languages:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript)
+![SQL](https://img.shields.io/badge/-SQL-orange?style=flat-square&logo=sqlite)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql)
 
 
 ### Frameworks:
