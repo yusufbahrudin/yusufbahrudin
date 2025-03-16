@@ -24,3 +24,6 @@ I'm a passionate Full-stack Developer 🚀 from Surabaya, Indonesia with 1 years
 ![React Native](https://img.shields.io/badge/-React_Native-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![NestJS](https://img.shields.io/badge/-NestJS-red?style=flat-square&logo=nestjs)
+
